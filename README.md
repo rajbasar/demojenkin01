@@ -1,1 +1,1 @@
-# demojenkin01 this new changes on nmrnew poll
+# demojenkin01 this new poll scm
